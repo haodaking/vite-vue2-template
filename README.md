@@ -1,6 +1,7 @@
 # vite-vue2-template
-Vite + Vue2 + Eslint
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/haodaking/vite-vue2-template)
+
+Vite + Vue2 + Eslint
 
 ### Install
 
